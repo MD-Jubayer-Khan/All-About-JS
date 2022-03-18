@@ -17,4 +17,4 @@ student1['marks'] = 99 ;
 // Number3
 var nameProparty = 'name';
 student1[nameProparty] = 'linkon'
-console.log(student1)
+console.log(student1);
