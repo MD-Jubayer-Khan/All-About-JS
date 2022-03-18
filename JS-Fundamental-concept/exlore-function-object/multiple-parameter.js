@@ -30,3 +30,4 @@ function minusTwoNum (num1, num2) {
 var total = minusTwoNum (152, 33);
 console.log('Your minus result value is', total);
 
+
