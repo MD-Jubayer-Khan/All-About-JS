@@ -1,4 +1,4 @@
-const str = "hello, world";
+const str = "hello, world. I'm exploring string reverse";
 function reverseString(text){
     let reverse = "";
     for (const letter of text){
